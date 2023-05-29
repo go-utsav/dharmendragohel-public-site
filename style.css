@@ -1,0 +1,28 @@
+.footer-css {
+    background-color: #A52A2A;
+    width: 100%;
+    height: 100%;
+    color: white;
+}
+
+.footer-css-brand{ 
+    color: yellow;
+    font-weight: 800;
+}
+
+.raw {
+    padding: 0;
+}
+
+a {
+    color: white;
+}
+a:hover {
+    color: greenyellow;
+}
+.text-muted {
+    color: lightblue !important;
+}
+.col-terms-policy{
+    margin-right: 2px;
+}
